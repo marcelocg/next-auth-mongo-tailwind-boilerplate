@@ -9,7 +9,7 @@
   "dependencies": {
     "mongoose": "^5.9.13",
     "next": "latest",
-    "next-auth": "^4.3.3",
+    "next-auth": "^4.5.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "swr": "0.2.2"

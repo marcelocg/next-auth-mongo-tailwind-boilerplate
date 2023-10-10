@@ -8,11 +8,12 @@
   },
   "dependencies": {
     "mongoose": "^5.13.20",
+    "postcss": "^8.4.31",
     "next": "^13.5.4",
     "next-auth": "^4.23.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "swr": "0.2.2"
+    "swr": "2.2.4"
   },
   "license": "MIT",
   "devDependencies": {
